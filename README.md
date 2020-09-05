@@ -12,7 +12,8 @@ I make videos on Bilibili!
 
 <dl>
 <script src="https://tryhackme.com/badge/152883">
-  </script>
+
+</script>
 </dl>
 
 <!--
