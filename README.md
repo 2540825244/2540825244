@@ -10,7 +10,9 @@ I make videos on Bilibili!
 
 [<img src="https://i0.hdslb.com/bfs/archive/e62b6b095ef38dfb742687f11e4b570dde420b5d.png" alt="BiliBili">](https://space.bilibili.com/4329715 "My BiliBili homepage")
 
-<script> src="https://tryhackme.com/badge/152883"></script>
+<dl>
+<script src="https://tryhackme.com/badge/152883"></script>
+</dl>
 
 <!--
 **2540825244/2540825244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
