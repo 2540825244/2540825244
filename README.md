@@ -1,8 +1,6 @@
 ### Hello!!! Welcome to my profile!
 
-As you can see I don't use GitHub that often so, how did you get here?
-
-I am a Chinese student who is currently at Cyprus (previously at Malta) (Yes they are both Mediterranean islands).
+I am a Chinese student who is currently at Imperial College London.
 
 I make videos on Bilibili!
 
